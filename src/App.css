@@ -1,0 +1,9 @@
+*,
+*::before,
+::after {
+  box-sizing: content-box;
+}
+
+body {
+  font-size: 13px;
+}
